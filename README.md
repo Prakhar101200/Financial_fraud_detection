@@ -86,4 +86,4 @@ This project provides a comprehensive approach to detecting fraudulent financial
 
 ## Contact
 
-For questions or further information, please contact [Your Name] at [Your Email].
+For questions or further information, please contact Prakhar Raj Gupta at prakhargupta10900@gmail.com 
